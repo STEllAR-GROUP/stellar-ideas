@@ -4,7 +4,7 @@ file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt) -->
 
 # Heterogeneity in Action
 
-Al has already done all the work, we just need to run some application on Rostam:
+@akheir has already done all the work, we just need to run some application on Rostam:
 
 
 ## Contribution
